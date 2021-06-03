@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch-cabinet picklocke apprehended and examined in a view and briefe answer to 5 queries, or reasons against a personall treaty betwixt the King and Parliament published in a late scandalous pamphlet entituled The Scotch cabinet opened, tending much to the hinderance of a desired happy peace, and a further continuance of our now abhorred unnaturall war destructive to the kingdome.</title>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62400</idno><idno type="EEBO-CITATION">9029024</idno>
+  <idno type="VID">42282</idno>
+  <idno type="EEBO-PROQUEST">2264208031</idno>
+  
+            <idno type="STC">Wing S951</idno>
+            <idno type="STC">ESTC R25605</idno>
+            <idno type="OCLC">09029024</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1294:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch-cabinet picklocke apprehended and examined in a view and briefe answer to 5 queries, or reasons against a personall treaty betwixt the King and Parliament published in a late scandalous pamphlet entituled The Scotch cabinet opened, tending much to the hinderance of a desired happy peace, and a further continuance of our now abhorred unnaturall war destructive to the kingdome.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42282:1"/>
+            <pb facs="tcp:42282:1"/>
+            <p>
+               <hi>The Scotch-Cabinet Picklocke:</hi> apprehended and examined, IN A VIEVV AND Briefe Answer to 5 Queries, or Reasons against a Personall Treaty, be<g ref="char:EOLhyphen"/>twixt the King and Parliament.</p>
+            <p>Published in a late scandalous Pamphlet, Entituled, <hi>The Scotch Cabinet opened.</hi>
+            </p>
+            <p>Tending much to the hinderance of a desired happy Peace, and a further continuance of our now ab<g ref="char:EOLhyphen"/>horred unnaturall War, destructive to the Kingdome.</p>
+            <q>
+               <bibl>
+                  <hi>Psal. 120.6.</hi>
+               </bibl>
+               <p>I labour for Peace, but when I speake or Treate thereof, they are ready for War.</p>
+            </q>
+            <p>Printed in the Yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42282:2"/>
+            <pb n="3" facs="tcp:42282:2"/>
+            <head>The Scotch-Cabinet Picklock apprehended, &amp;c.</head>
+            <p>THe two Kingdomes of England and Scotland by their se<g ref="char:EOLhyphen"/>verall Petitions and Declarations, have expressed their lon<g ref="char:EOLhyphen"/>ging desires for a long wished for Treaty. And this Trea<g ref="char:EOLhyphen"/>ty hath been long and often promised by the Lords and Commons: And no longer agoe then the third of this August, the Commons have wrote to the generall Assembly in Scotland, and say, wee have agreed to try whether a peace can be settled by a Treaty; and yet since this letter, a younker (who seemes to have been in the center of the Juncto's hearts) published five reasons against any such Treaty at all, and thereby would have the world believe, that this is the sence, and the soule of the representative of this Kingdom.</p>
+            <p>But whether this be so or no, I shall heere endeavour to answer his reasons, as I finde them, and the rather for that in his Title page, he professeth, that he publisheth those reasons <hi>to awaken the spirits of all true English men to take heed of the Scots designes:</hi> which de<g ref="char:EOLhyphen"/>signes in his <hi>Scots Cabinet opened,</hi> he saith are.</p>
+            <p n="1">1. <hi>Against the godly, and the Army in England.</hi>
+            </p>
+            <p n="2">2. <hi>To draw on a Treaty with the King.</hi> I will not peremptorily say this Reasoner is an Independent Saint, but I desire all English<g ref="char:EOLhyphen"/>men to take heed of such wandring spirits, while I passe unto his reasons.</p>
+            <p>Before which I cannot altogether omit the taking notice of his proemium, wherein he saith, that <hi>this Personall Treaty is the great Diana of our <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew Malignants, and is not the end, but the instrument of their designes.</hi>
+            </p>
+            <p>In the first, I conceive he alludeth to that of the 19 of the Acts, and the 28. <hi>great is Diana of the Ephes.</hi> whereby he would have you understand the Treaty to be a great Idoll, and indeed, what ever pleaseth not these Saints is idolatry; but how this Treaty should become an Idoll, I am as far to seeke as he is.</p>
+            <p n="2">2. But by the way observe the spirits and charity of this, and such Saints, that all who speake not, or doe not as they, are present<g ref="char:EOLunhyphen"/>ly
+<pb n="4" facs="tcp:42282:3"/> Malignants: and thus the most and best part of this Kingdome by this Saints verdict are Idolaters and Malignants; but his tongue is his owne, and he hath the time, when he may speake what he will, though none believe him, but such as himselfe.</p>
+            <p n="3">3. And heere is another piece of his charity to condemne all, but such as himselfe, when he tearmes this Treaty an instrument of their designes, and from which (as in 3 lines after he saith) wee can expect nothing but mischiefe against the Parliament and Kingdome: But when wee shall finde what these designes and mischiefes are, (as perchance wee shall in the reasons) I shall answer them, untill then I will not shoote at Rovers, or let my wits run a wooll-gathering as this Reasoner doth, when he saith.</p>
+            <p n="1">1. Reason, <hi>A treaty is most unsutable to the condition of the King and Parliament, as they are now;</hi> this is his Proposition, which he seemes to prove thus.</p>
+            <p n="1">1. The Parliament having fought against the King, for what they are not to treat.</p>
+            <p n="2">2. And have got him their Prisoner.</p>
+            <p n="3">3. What they are to treat about is already determined by the sword.</p>
+            <p n="4">4. And it is below the Parliament to treat with the King, ha<g ref="char:EOLhyphen"/>ving him under their power.</p>
+            <p n="5">5. All Treaties are upon equall tearmes between Parties, who can make their conditions on both sides.</p>
+            <p n="6">6. No State ever treated with a conquered enemy.</p>
+            <p n="7">7. Though he seeme to have new forces, its rather against the Treaty.</p>
+            <p n="8">8. Wee see his designes are not for peace, but war.</p>
+            <p>His first Reason against the Treaty is drawne from the condition of the King, in respect of the Parliament; from whence he infers that the Parliament have fought against the King, for all which they now desire.</p>
+            <p n="2">2. That in this fight he is a conquered man.</p>
+            <p n="3">3. Their Prisoner.</p>
+            <p n="4">4. That Treaties being between Parties who are able to make conditions; the King is not so.</p>
+            <p>But before I examine his reasons, I pray observe that in his first proofe he confesseth that which heeretofore hath been denyed; for the two Houses sayd the King raised war and fought against them, not they against him.</p>
+            <p n="2">
+               <pb n="5" facs="tcp:42282:3"/>2. He confesseth they fought against him for that which now they treat. 1. The Militia whereby they may hold to themselves an everlasting arbytrary power over King and subjects in person and estates, whereas the two Houses said they fought against his evill Counsellours, not against the King, and not for all those things now to be treated on, but to br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him to his great Counsell, for the maintainance of the Protestant Religion established, for the Lawes of this Kingdome, for the liberties and propriety of the Subject. Now which shall I believe? Truely this man rather then those, for that wee know fooles will tell truth rather then knaves.</p>
+            <p>But grant they did fight for all this; yet why not to treat? No saith he, for the King is now a conquered person, and a prisoner, and therefore not to be treated with; but stay a little, not so fast with your empty cart, you did fight against the King for these, but by what Law of God or man? or regard you not these? It should seeme not; so that <hi>quocun{que} modo rem,</hi> is become the tenet of the new Saints; but should you not consider this; first, whether on these grounds you should have fought against your King?</p>
+            <p n="2">2. Whether a King may be, or can be said to be conquered by his Subjects? to the assoyling which, tell me (if you be an Inde<g ref="char:EOLhyphen"/>pendent that allow or regard the holy Scripture) where finde you precept, counsell, or example warranted by God, that ever Subjects fought against their King upon such grounds or causes as you say this war was?</p>
+            <p n="2">2. Not to quote Scripture to you (whom I finde not in all your Cabinet or Treaty to regard any) nor to cite our Lawes (which you are as careles of) yet doth not Mr. St. <hi>John,</hi> and <hi>Pym</hi> acknowledge our King, this King <hi>Charles</hi> to be the <hi>Head,</hi> the <hi>Father,</hi> the <hi>Hus<g ref="char:EOLhyphen"/>band,</hi> of this people in England? and may the <hi>Wife,</hi> the <hi>Child,</hi> the <hi>Members</hi> of the Body fight against the <hi>Head,</hi> the <hi>Father,</hi> the <hi>Hus<g ref="char:EOLhyphen"/>band?</hi>
+            </p>
+            <p n="2">2. If the Wife a sturdy strammell queane get her Husband down, or a strong sonne his Father, or the hands the head, can they be sayd to conquer these? or to make and keepe them their prisoners?</p>
+            <p n="3">3. I could prove this to be against all Law of God, nature, and man; but I shall fight with you at your owne weapon; holds this to reason? I dare say no reasonable man will say it.</p>
+            <p n="4">4. Or that it were below the wife, the child, the Members to treat with the head, the Father, the Husband, only because (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s you
+<pb n="6" facs="tcp:42282:4"/> say) they have got him under their power: But I expected this man of reasons, would first have proved that the two Houses might upon their grounds, according to Gods and mans Lawes have fought against the King.</p>
+            <p n="2">2. That they might conquer him.</p>
+            <p n="3">3. That they might take and keepe him prisoner; but not a word of this, or any thing like it, but as though the argument <hi>a facto ad jus</hi> held good, his reason is but this, the two Houses, how wickedly, traiterously, unjustly soever wee care not, have fought a<g ref="char:EOLhyphen"/>gainst, overcome the King, and hold the King Prisoner, therefore it is unsutable to treat; <hi>for no State ever treated with a conquered enemy.</hi>
+            </p>
+            <p>But are you sure no State ever did? or care you not what you say? but had no State ever done it, what is this to the present case, unlesse you prove this to be, as it is called by some a State, and not a Kingdome?</p>
+            <p n="2">2. Unlesse you prove the King the Kingdomes enemy:</p>
+            <p n="3">3. That the King may be conquered by his owne Subjects.</p>
+            <p>And to this last, though the two Houses have not to my know<g ref="char:EOLhyphen"/>ledge, within these two yeares at least, openly and expresly declared the King, the Kingdomes enemy; yet may you affirme and pub<g ref="char:EOLhyphen"/>lish him so, because he grants not what you, or what the two Hou<g ref="char:EOLhyphen"/>ses would? For have the members, the wife, the child, a just power so to doe against the head, the husband, the father? and this now can be the only cause why at present (he being as you call him your conquered prisoner) he can in your sence be called your enemy, be<g ref="char:EOLhyphen"/>cause he will not grant what you would have.</p>
+            <p>
+               <hi>Ob.</hi> Some urge that he is an enemy if he grant not what the two Houses would have.</p>
+            <p>
+               <hi>Sol.</hi> It followes not? for grant that 20 (all the children of a Father and all the members of the body) should require that of the Father, and the head, which he sees he cannot in conscience or judgement, in respect of himselfe grant, no not in respect of their good that aske it: is he therefore to be accounted their enemy? and if not, which he is not, then much lesse in this case; for say the two Houses desire it, yet 20 Lords and 200 Commons are not the King<g ref="char:EOLhyphen"/>dome, so that all desire not.</p>
+            <p>
+               <hi>Ob.</hi> But these are the representative of the Kingdome?</p>
+            <p>
+               <hi>Sol.</hi> The 20 Lords represent none but themselves, so that they are barely but 20 persons, and there are I dare say almost 100
+<pb n="7" facs="tcp:42282:4"/> Lords besides, who are not of their mindes.</p>
+            <p n="2">2. And for the Commons now sitting, I dare say they are not neere the one halfe of them which have any right to their places in Parliament, being thrust or crept in by feare or force or without due election: might I not adde that besides almost an hundred Officers and Commanders in war being Members, can it be conceived that these or the rest of the Members will desire a peace which would soone spoile that craft, by which as the Silver-smith said, Acts 19. they gat their wealth? for I am perswaded that there are not 20 in that House, but either live, or are great gainers by these continued troubles.</p>
+            <p n="3">3. But grant they were all duly elected, and had right to vote; yet what is their just &amp; lawful priviledge? what by arbitrary power to change the government of Church and State? to oppresse, tyran<g ref="char:EOLhyphen"/>nize, and to graspe all into th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir owne hands, without regard to their fellow Subjects, or the publique good? and can you conceive that the people, if they ever had such power, did grant all this against themselves to their Representors?</p>
+            <p n="4">4. But suppose the people, not knowing what they did, when they chose those men, conceiving they had been, and would conti<g ref="char:EOLhyphen"/>nue honest, and carefull of their good, and therefore they made them their Atturnies to speak and act for them for 6 or 12 months: must it therefore follow that they shall hold it 10 20 yeares without revo<g ref="char:EOLhyphen"/>cation, especially when the people perceive their trust to be used all against themselves?</p>
+            <p n="5">5. And that this is so cannot be denyed, when the great City and Counties cry out against their actions, and dayly and heartily petiti<g ref="char:EOLhyphen"/>on for a redresse to their miseries, sustained by their sitting so long, and so voting.</p>
+            <p>
+               <hi>Ob.</hi> But the people are mutable, and not so wise as they should be, to know and desire their owne good, so well as the wise men of the great Counsell.</p>
+            <p>
+               <hi>Sol.</hi> I confesse you sayd true, that they were not so wise as they should have been to chuse such Atturnies for them, neither are they so wise yet as they may be, so long to suffer such men to rule and ride them: but in good earnest may wee thinke, that the House at Westminster hath such a singular power and influence to make all men so wise that sit there? wee finde it not when they come a<g ref="char:EOLhyphen"/>broad; nor shall wee (I believe) when they shall leave that House:
+<pb n="8" facs="tcp:42282:5"/> But in Gods name, why may wee not thinke, that the Aldermen and Common-Counsell of London are as wise, and know what is good for them and that City, as <hi>Pennington, Ven, Vassall? &amp;c.</hi> and that the Gentlemen and others in other Counties are as wise as their At<g ref="char:EOLhyphen"/>turnies? But it is observed that mad men thinke all others mad but themselves, though those others who are deemed mad, know those to be so, I feare you will hold me little better to treat so long as I doe with such mad men, who argue, but without all reason; I'le therefore touch but one branch more of the first reason, which is:</p>
+            <p>All Treaties are between Parties who can make their conditions on both sides; whereas the King is in the capacity of a conquered Person.</p>
+            <p>
+               <hi>Resp.</hi> If it be granted what this Reasoner affirms and proclaims, that the two Houses and Army have conquered the King the head, is not then the body the Kingdome conquered with and under the head, which is the King? And then doe you not wisely, O yee peo<g ref="char:EOLhyphen"/>ple of England, to defend, maintaine, and pay at the charge and ex<g ref="char:EOLhyphen"/>pence of your estates and blood, these two Houses and Army to be your conquerors, and you their perpetuall slaves? O that I could not say that this were too true, which with shame to this Nation, must be recorded to all Posterity: But if this be true, that the King is so conquered, that he hath not power to make his conditions, yet it proves not your justice, charity or goodnesse, but the contrary; that you respect neither of these nor any such thing, but that if <hi>per fas</hi> or <hi>nefas,</hi> you have got the power, that so you will hold it: But for your own sakes consider, that the King is not so low in strength, nor your power or sword so strong, but that he may be able to make conditions better for himselfe and his people, then you or a leading Faction would wish: Let me remember you▪ but with your owne words, though the King hath a new force, yet it is against the Trea<g ref="char:EOLhyphen"/>ty, and for war, not peace; be that your unchristian uncharitable<g ref="char:EOLhyphen"/>nesse, such as to usurp upon Gods prerogative, to search the heart especially of a King, which is as deepe waters, and to judge amisse, yet (which is to the point) you confesse, he hath such a force, and therefore which is against your reason, not in so low a condition, but that he may in respect heereof treat.</p>
+            <p>And to this confession of yours, let me adde, that you shall or may finde▪ through Gods mercy to the King, and for their sakes whom he desires to relieve in their suffrings, and for the crying sins
+<pb n="9" facs="tcp:42282:5"/> of those who have raised, and maintained this most unjust, bloody<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unnaturall war against him, and his most oppressed people; this force now raised for the King, may appeare such, that in a short time you will not be in a condition to be treated with; and will you be content to heare of your owne argument, which you heere urge a<g ref="char:EOLhyphen"/>gainst the King? Let me put you in minde, for close to your first reason, that many a good peace hath been lost for want of a timely offered Treaty; and that many by coveting (as our Proverbe hath it) to hold all, have lost all. <hi>Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ò sapiunt Phryges,</hi> may be a good lesson, and caveat at this time to such as you are.</p>
+            <p n="2">2▪ <hi>Reason</hi> This Treaty strikes deepely at the priviledges of Parli<g ref="char:EOLhyphen"/>ament, which hath been one of the great things fought for, in the the late war against the King.</p>
+            <p>Heere 2 things are affirmed.</p>
+            <list>
+               <item>1. That this Treaty strikes, &amp;c. for which he after gives his proofes, which wee shall consider.</item>
+               <item>2. That for these priviledges they fought against the King.</item>
+            </list>
+            <p>And that the two Houses fought against the King, is more then they have confessed: for they professed they fought for the King and Parliament; so that you or they are the liars; unlesse you distin<g ref="char:EOLhyphen"/>guish that they fought for <hi>(i. e.)</hi> for to conquer and take him, and yet against him <hi>(i. e.)</hi> to destroy him; but in this distinction, I find either that equivocation which a Protestant should not professe, or that flat downe villany that a Christian should not practise.</p>
+            <p>And when you say, they fought for the priviledges of Parliament, was this ever declared to be the end of the war? or if it were one end, was it ever propounded to, or denyed by the King? and will any sober Christian fight before he declare the cause, and have a de<g ref="char:EOLhyphen"/>nyall of what he asks? a Bat againe, had they been denyed any priviledges, did they before fighting shew which they were, and prove that they justly were their priviledges? for before they had seized the King, Navy, Townes, and Forts, what priviledges did they require and prove theirs which were denyed? but the man doth instance, when he saith, <hi>they againe give the King the power of his Negative voice, which was the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat controversie formerly;</hi> and when I pray was this the controversie before this Parliament? and till you instance in some act or time, when this was, I have nothing to answer; but that I dare peremptorily say it was never: and when you say, <hi>they give him againe his Negative Voice in that they treat
+<pb n="10" facs="tcp:42282:6"/> with him;</hi> consider whether that can be properly said to be given againe, that was never taken away? For shew me so much as an Ordinance, that the King should have no Negative voice? I may be<g ref="char:EOLhyphen"/>lieve, that they would take away his voice, and Crowne, and more; but God be thanked, yet they have not, and therefore cannot be said to give it him againe by treating.</p>
+            <p n="2">2. Had they taken it away in Parliament, yet by treating with him on other things, they doe not absolutely and fully give it him ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p n="3">3. But whether they would, or have taken away his voice in <hi>facto,</hi> if they have attempted, or doe it unjustly, is it reason, therefore to treat whether he should have it againe? and that it is unjust, if done, will appeare, that in all just and lawfull Parliaments, Kings of England have had, and used their Negative Voices when they would; and this stands with all reason divine and humane, that no man should be forced to yeeld assent to that, which is against his Oath, his conscience, or against himselfe; it were to make the King in a lower and worse condition then any Subject; for that no bin<g ref="char:EOLhyphen"/>ding Lawes are made without the Subjects assent, personall, or by their proxie, or representor, neither of which the King hath.</p>
+            <p>The second proofe heere brought, to shew that this Treaty strikes at the Priviledges of Parliament, is, for that heereby it will be a great dishonour to the Parliament of England to go 20 miles to treat with their enemy; where,</p>
+            <p n="1">1. I never heard or understood, that it was any dishonour to Subjects to go 20 miles to treat with their King; but if it be, they may take this dishonour away, by letting the King come 40 miles from Carisbrooke to them at Westminster, and so put the disho<g ref="char:EOLhyphen"/>nour upon him.</p>
+            <p n="2">2. When they speake of the Parliament, they must know that when the Parliament is dishonoured, the King himselfe is concer<g ref="char:EOLhyphen"/>ned, and that more principally, as being the most principall part thereof the head, and the Fountaine of all honour to this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="3">3. That the dishonour should be in treating with their enemy, I touched before▪ that the King neither is, nor can be justly and truely called their enemy▪ only because he would maintaine his owne, and their right, or chastice them for doing wrong, or by fatherly cor<g ref="char:EOLhyphen"/>rection to reduce them.</p>
+            <p n="4">
+               <pb n="11" facs="tcp:42282:6"/>4. And when he saith, he is their enemy, in that he raised an Ar<g ref="char:EOLhyphen"/>my to destroy them, it is too well knowne, that (as before I said) he never moved for his owne and his peoples defence (to both which he is bound) untill they had armed against both; and if you remember your selfe, you confesse in this, and in your former reason that the 2 Houses fought against the King.</p>
+            <p n="5">5. What you urge that the King would not owne them for a Parliament, may be true; for without him (he being the King dri<g ref="char:EOLhyphen"/>ven away) the two Houses cannot make a Parliament.</p>
+            <p n="6">6. The King for ought I read or remember, never denyed all the Members in each House sitting at Westminster to be Members of the two Houses, although some Members of them might be, or might be proclaimed Traytours.</p>
+            <p n="7">7. And <hi>that it is a dishonour to the two Houses to treat with the King a prisoner;</hi> they must know, it is no dishonour, but an honour to them to treat with their King, and all the dishonour is in those Subjects, who make him a prisoner; I and in all those his Subjects, who endeavour not to free, and release him from that dishonourable and base thraldome.</p>
+            <p>The Reasoner hath jumbled this into the throng of privileges under his second reason, that <hi>by this Treaty the King will get his old Prerogative, and his old Power:</hi> And is this a losse of their Privi<g ref="char:EOLhyphen"/>ledge, that the King get again his own old power and Prerogative? for do wee not (in the <hi>Protestation, Vow,</hi> and <hi>Covenant</hi>) sweare to both, as that both may stand together, and both be maintained?</p>
+            <p n="2">2. When you call them his old power and Prerogative, I can desire no better testimony against you, then this, that the power you feare he will get, is anciently his.</p>
+            <p n="3">3. In that you say he will get or recover his old power againe? imply you not, that it hath beene lately forced away from him; and if so, what dishonour, or breach of Privileges can it be to the two Houses to let him have it againe? Give unto God the things that are Gods, and to Caesar the things that are Caesars, is Gods owne judgment. But my Reasoner tells you further, <hi>That the King and the two Houses have fought for the preeminence, and the Parl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ament have obtained it by the sword, and therefore it will reflect upon their Honours and wisdome to give that away which they have by victory.</hi>
+            </p>
+            <p>That the two Houses have fought against the King, and for pre<g ref="char:EOLhyphen"/>eminence,
+<pb n="12" facs="tcp:42282:7"/> is the more their shame, the greater their disloyalty and treason; but to say that the King fought for that which he knows is his owne, and that they cannot take from him, is most untrue, he never fought with them for preeminence.</p>
+            <p n="2">2. And when you say they have obtained it by the sword, hold you this a good argument? I finde indeed that it is the maine, if not the onely hinge, or strength rather of all your reasons, we have it by the sword: I confesse in a just war, by Lawfull authority (which this of the two Houses against the King, can never be proved to be) conquest by the sword is a strong reason to make a good tenure; But simply and barely to say wee have it by the sword, therefore it is just, and we may hold it so, follows not: for so the Turk, and the Pope, and the Dragon argue against the Saints, Apoc. 13.</p>
+            <p>And I have not found in all your reasonings, any proofe to main<g ref="char:EOLhyphen"/>taine the justnesse, and the Lawfullnesse of your war or conquest by the sword; onely still you lay about you with the scabberd of a reason in stead of a sword, and say we have got it by the sword; and how this will take with men of wisedome and honour, guesse you, but I am sure it cannot with men of justice: And when you urge that this <hi>condescension of the two Houses, in letting the King re<g ref="char:EOLhyphen"/>injoy his preeminence, will refl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct upon the wisedome and honour of the two Houses:</hi> I dare say, what ever you meane by reflect, that if they restore him to his old preeminence, as you call it, it will re<g ref="char:EOLhyphen"/>dound to their wisedome and honour with all persons of honour and wisdome; but especially if they have a touch of justice and ho<g ref="char:EOLhyphen"/>nesty. But before I leave this second reason, let me observe that hith<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rto all your resons are grounded on power and force, and back<g ref="char:EOLhyphen"/>ed by policy and reputation; but in all not a word of God, of his word, of mans Law, nor of justice, nor of honesty; and now I am in so far, and have observed it, I am ashamed, and beshrew my selfe that I have had so much to do with a meere pollitique Saint, or an atheisticall Independent.</p>
+            <p>And yet I cannot altogether let passe the close of his Second rea<g ref="char:EOLhyphen"/>son, where he saith, <hi>that if the Parliament</hi> (he meaneth though ig<g ref="char:EOLhyphen"/>norantly or absurdly by this the two Houses) <hi>intended to have gi<g ref="char:EOLhyphen"/>ven away their Priviledges to the King, they might have spared so much blood to the Kingdome.</hi>
+            </p>
+            <p>How the Kings old power, Prerogative, and preeminence, is be<g ref="char:EOLhyphen"/>come a Priviledge of the two Houses, I know not; unlesse (as the Reasoner
+<pb n="13" facs="tcp:42282:7"/> saith) by the sword; and what Title that is I have brieefly spoken before.</p>
+            <p n="2">2. And that they might have spared so much blood of the King<g ref="char:EOLhyphen"/>dome I confesse is one, if not the only one Christianly or humane passage that I finde in all his reasons; and what he saith they might have done, I say, and he should have said too, that they should have spared so much blood; But such Saints as these (like the ancient and worst of Idollaters) delight in the sacrificing of mans bloud.</p>
+            <p n="3">3. But another observation I think is worth your taking, that this Saint, when generally the other cry out of the King, for having shed so much bloud, and that therefore they will have him satisfie for it; yet this good man (I feare before he was aware) tels truth, and it may be he shall heare of it; for he saith (at least implies) that the two Houses have shed the bloud: for in that they might have spared it, implies it not at least that they shed it? for <hi>qui non vetat cum potest jubet.</hi>
+            </p>
+            <p n="3">3. <hi>Reason.</hi> From which I am brought to the 3 Reason; which as it abates of the bitternesse, so it comes short in matter of length, and shaddow of reason; and accordingly I shall abate in length of answer to it: for it briefely saith, That this Personall Treaty was de<g ref="char:EOLhyphen"/>clined, and protested against by both Kingdomes, though offered by the King, when he was far from the condition, now he is in, and was out of the reach of Parliamentary power, and when wee had no parties nor divisions, and therefore how much more inconveni<g ref="char:EOLhyphen"/>ent will it be now, when wee have so many warpings in our best actions, and it is only propounded by one party as a designe?</p>
+            <p>
+               <hi>Resp.</hi> Whether some such Personall Treaty was offered by the King, and declined by both Kingdomes, I cannot say whether it be so or no; but I dare say, that this individuall Treaty, for so he saith, that is this, for matter, manner, and circumstance was never offe<g ref="char:EOLhyphen"/>red.</p>
+            <p n="2">2. But grant it had been; who in reason doth not know, but that, that which was offered and refused a yeare or two, or more sithence, may now upon change of causes, events, and circumstances, with<g ref="char:EOLhyphen"/>out inconvenience to either party, be taken againe into considerati<g ref="char:EOLhyphen"/>on, and proceeded in?</p>
+            <p n="3">3. When it is sayd, that the Treaty was offered by the King, and refused by the two Kingdomes, when the King was far from the condition he is now in; I conceive he meanes that the King was
+<pb n="14" facs="tcp:42282:8"/> not then in so low a condition as now; for he addes, that he was then out of the Parliaments power; but to this they may know, that though the Person of the King be now <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n their power, yet the Kings power (I believe) is, and so it will be found to exceed theirs; and therefore though his condition be the lower, in that he is under restraint, yet he is in a better condition now, then he was then, in that God hath opened the eyes, enlarged the hearts, and strength<g ref="char:EOLhyphen"/>ned the hands of the greatest part of three Kingdomes, for the re<g ref="char:EOLhyphen"/>scue and deliverance of his person, and for the restoring him to his just rights, whether by or without a Treaty, according to their se<g ref="char:EOLhyphen"/>verall antient, and more generall, and their later more speciall re<g ref="char:EOLhyphen"/>newed protestations and oaths.</p>
+            <p>When he saith, <hi>it is more inconvenient</hi> for them <hi>to treat now, when they have so many warpings in their actions, then at that time, when they had no parties nor divisions;</hi> I conceive when they had no par<g ref="char:EOLhyphen"/>ties nor divisions among themselves, they had the lesse reason to stoope to a Treaty; for as they had the greater strength in men and money: So had they the people by their delusions more united to<g ref="char:EOLhyphen"/>gether and knit to them; whereas now when they finde not only divisions among themselves, but warpings in their best actions, now to my reason, they are more concerned, for their owne security, and to make their peace, to yeeld, yea to sue to the King for a Treaty.</p>
+            <p>And when he saith, <hi>the Treaty is propounded only by one party, as a designe;</hi> it is strange to me, that the House of Lords and Commons, and the Kingdome of Scotland, and the City, and most Counties, and people of England, must in respect of his owne faction of Saints or Independents, go under the notion and stile but of one party; as though these Saints were alone the Kingdome, or King<g ref="char:EOLhyphen"/>domes, because they as madly hold, that they alone are the people of God, and have right to the Land, and what is therein.</p>
+            <p>And as uncharitable and unreasonable it is to say, that what all these in the two Kingdomes desire, is but a designe, though it tend to a lasting peace; and what ever his party would, though against a Treaty, must be construed as holy, and just, though it be only for the maintainance and propogation of their more wicked designes, and all tending inevitably and speedily to the ruine and destruction of so happy and flourishing a Kingdome.</p>
+            <p n="4">4. <hi>Reason.</hi> The fourth reason against this Treaty he drawes from the little hope of successe that he conceives this Treaty can finde,
+<pb n="15" facs="tcp:42282:8"/> when he thus saith, <hi>There is not any hope of any good successe in set<g ref="char:EOLunhyphen"/>tling our peace by such a Treaty, but rather the contrary.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> To which, though either he doth not, or will not see any hope of successe, or not of such a peace as he would; what there<g ref="char:EOLhyphen"/>fore must not they try, &amp; treat, who does see great, very great hopes of a peace, a good peace, and by a Treaty as the only best humane exp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dient? wee plow, wee plant, wee sow, and all but in hope, and if all should forbeare to plant or sow untill sure of successe, we might want both fruit and graine: and I pray let me aske you in your many battles you have (as you professe) fought against your King, were you sure still of successe before you went forth? Let me adde, though there were but little, yea scarce any hope of a suc<g ref="char:EOLhyphen"/>cesse, yet in so miserable a case, as this Kingdome now is in; why not try what a Treaty will effect? for so there be neither sinne nor illegallity in it, why not try? <hi>quid enim tentasse nocebit?</hi> were the people sure of a successe (<hi>Josuah</hi> the sixt) when they blew their trumpets before the walls of Jericho? or Naaman (the second of Kings and the fifth) of a cleansing from his leprosie by washing in Jordan? but you will tell me they had directions and command to doe these from heaven, and that was assurance enough: and have not wee the like? For what is that Ps. 34.14. seeke peace, and pursue it (though it flye from you?) and Rom. the 12 the 18. If it be possible, as much as lyeth in you, live peaceable with all men. In which Texts wee are commanded to strive and endeavour by all possible meanes, he saith not by all probable meanes, but though they seeme improbable, yet by all possible meanes to seeke peace; and when you so much labour against this way to it, why tell you us not of a better, or more compendious way then a Treaty? but I conceive (pardon me if I misguesse you) you are not so much af<g ref="char:EOLhyphen"/>frayd of a Treaty the meanes, as of a peace the end; for heerby you may fear that (as our Lord and Saviour sayd of the day, so I may of a peace) this would bring your workes to light, and make manifest what abominations you have committed under the name and co<g ref="char:EOLhyphen"/>vert of a War.</p>
+            <p>To which he argueth, that the <hi>Propositions</hi> (to bee treated on) <hi>must be the same as they were, and these the King hath denied, and therefore little hope &amp;c.</hi> To the first I must aske him how he know<g ref="char:EOLhyphen"/>eth that the Propositions must be the same in number, matter, form? 2. Why they may not be changed in some at least? 3. If the same,
+<pb n="16" facs="tcp:42282:9"/> yet why may not these same, by the wisdome and moderation of the two Houses, have such qualifications, as it may please God to move the King to give his assent, if hee shall see it shall bee for his peoples good?</p>
+            <p>
+               <hi>Reason</hi> 5. But this Reasoner conceiving sure that he hath kept the reserve, as the strength of all his arguments; to this last he saith, which is his 5. Reason: <hi>It is most dangerous (as things stand) and hazardous to the Parliament and Kingdome, to have a Treaty.</hi>
+            </p>
+            <p>
+               <hi>Resp.</hi> One thing I cannot but observe (though by, or out of the way) which is, that this Reasoner throughout, prefers the Parlia<g ref="char:EOLhyphen"/>ment before the Kingdome; as though hee had more minde to the standing and power of that then this: for who knowes not that the persons now in the two Houses are the least, the meanest part of the Kingdome? 2. That such a part is not to bee preferred before the whole. 3. That it is the Kingdome that makes, maintains and gives them the power they have: but affection makes men blind. I will say no more, but will examine the strength of his reasons; whereof the first is:</p>
+            <p>
+               <hi>Wee see what influence even the absence of the King hath had upon the people, how much greater would his presence haue? And doubt<g ref="char:EOLhyphen"/>lesse when ever there is such a conjunction of King and Parliament, wee shall soone finde he is the head.</hi>
+            </p>
+            <p>And from hence wee see the aime and end of all this reasoning against the Treaty, <hi>viz.</hi> feate that the King should appeare to be head of the Kingdome and Parliament; so that what, the King truely and rightly is by the Law of God and this Kingdome, and the desire of all good Christian Subjects, this fellow holds to be the only danger and hazard to the Parliament.</p>
+            <p>But, in Gods name, what would he should become of the King? is he of <hi>Cromwells</hi> and <hi>Rolfes</hi> minde? better this fellow and all such were where they deserved to be, who are of his minde.</p>
+            <p n="2">2. Would he that this Kingdome should be, and continue an headlesse Monster, without true sense, or due motion, seeing these proceed from and only from the head?</p>
+            <p n="3">3. Or would he that this Kingdome should move as a worme, or a snake, where the tayle the people move the rest? I feare this is his meaning: yet I trust that all the men of this Kingdome will rather desire to be ruled and moved (as men) by their heads, who
+<pb n="17" facs="tcp:42282:9"/> in Gods Law and ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, is the King; and not as beasts, the worst and basest of beasts, by the tayle: and then the danger which this fellow feares will soone be over.</p>
+            <p>But this fellowes head is so full of feares, that he hath dreamed of another danger arising from a Treaty; for, saith he, <hi>It is dangerous in point of security:</hi> and addes; <hi>there can be no safety without an Ar<g ref="char:EOLhyphen"/>my.</hi> So that heere is his second feare, that the Army in the time of, or after the Treaty, shall not continue, and be in force; and then con<g ref="char:EOLhyphen"/>cludes <hi>no man can promise a quiet sitting, and faire parting.</hi> But why not, I pray? For who hath more frighted and forced the two Hou<g ref="char:EOLhyphen"/>ses then the Army? who have oppressed, inslaved, and slaughtered the good people more then the Army? and therefore what is more desired by the generall vote and petition of the two King<g ref="char:EOLhyphen"/>domes, then the disbanding the Army? and yet what in the judge<g ref="char:EOLhyphen"/>ment of the wisest is the best security to all these, hee accounts the greatest danger of all, <hi>viz.</hi> the putting downe of the Army.</p>
+            <p>
+               <hi>But tumults,</hi> sayth he, <hi>are now rising in every County, that no man can foresee to prevent without an Army.</hi> But what tumult is there in any County, except that of the Army? or such as is occasi<g ref="char:EOLhyphen"/>oned or raysed by the Army? Let the Army bee disbanded, and without all peradventure, all tumults will cease in all Counties, ex<g ref="char:EOLhyphen"/>cept the Divell rayse some Independent Saints to make tumults.</p>
+            <p>But the fellow is not quit of all his feares yet, and therefore pro<g ref="char:EOLhyphen"/>pounds, <hi>What if the King and Parliament should not agree? it will be harder to bring him backe to his former condition againe.</hi> You may easily tracke this fellow by the sent, and heere you may see his feare; that a Treaty being on foot, they shall hardly carry the King backe to <hi>Carisbroke,</hi> under the hands of <hi>Cromwell, Hammon,</hi> and <hi>Rolfe.</hi> I, heere is the feare, heere the danger of all; so that what is the de<g ref="char:EOLhyphen"/>sire of all honest, loyall, Christian Subjects, that the King should be as he ought to be, free; this to this Reasoner, and his desperate complices, is the great danger.</p>
+            <p>And yet he is troubled with another feare besides all the former, lest <hi>in the time of treaty some rude and barbarous men should surprize the Parliament, or at least some eminent Members which they finde most eminent and active.</hi> And are there any more rude and barba<g ref="char:EOLhyphen"/>rous men to be feared in this case, then those you hold your best se<g ref="char:EOLhyphen"/>curity, soldiers so principled? who are drencht in bloud, and have
+<pb n="18" facs="tcp:42282:10"/> scarce any other meanes whereby to live then by br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>il<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, oppressi<g ref="char:EOLhyphen"/>on, rapine, and shedding of blood? and whom may a Parliament more feare then these?</p>
+            <p>But though this fellow clapt in the word Parliament, to be in danger, yet he soone explanes himselfe in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same line, and as though he cared not much for the Parliament; so some of the most, eminent active members be preserved; he addes <hi>they may surprize the Parliament, or at least some most eminent and active Members:</hi> and it were easie to <hi>Say,</hi> whom he meanes by the most eminent and active members, besides <hi>Naworth,</hi> the brave <hi>Olivers, may-Mild, &amp;c.</hi>
+            </p>
+            <p>And yet this timerous goose is not past feare yet, for he goes on and tells you, <hi>that the King never had more desperate designes a<g ref="char:EOLhyphen"/>gainst the Parliament, then when he sent to treat with them, wit<g ref="char:EOLhyphen"/>nes Brainford.</hi> And heere although I finde not that the King sends now to the two Houses, but they to him for a Treaty; yet I must needs con this fellow thankes, for the confession of a truth, when he professeth that the King never had more desperat designs against the Parliament, then when he sent for a Treaty: and instanceth only in that of Brainford. So that, by this Reasoners acknowledge<g ref="char:EOLhyphen"/>ment, the King never had greater designe against the Parliament, then in that businesse of Brainford, and his designe in that was on<g ref="char:EOLhyphen"/>ly this, that while he sent to the two Houses to treat with them, he finding in the meane time, that they had almost surrounded him with their Army, his desparate designe was to quit himselfe of them; and this was that businesse of Brainfrod, and so the truth is that was the most desperate designe that ever the King had against the Parliament.</p>
+            <p>And this Wigin having hitherto acted the part of a Reasoner beyond, or without all reason, he now in the close takes upon him to be a Counsellour; and therefore he sayth, <hi>It is good for the Par<g ref="char:EOLhyphen"/>liament to keepe their distance, and maintaine their ground, for they have lost too much by their lenity and credulity.</hi>
+            </p>
+            <p>Sure, his Parliament, the two Houses are in a witlesse condition, that must stand in neede of his counsell, which is to stand their ground, and keepe their distance. For what if they cannot stand their ground? Can his counsell inable them to it? No whit more, then when the Constable bad the Drunkard stand, when he was reeling to the ground.</p>
+            <pb n="19" facs="tcp:42282:10"/>
+            <p>But the ground of his counsell surpasseth the counsell it selfe (which he gives them with an Asses carry-combe;) for forsooth, they have lost too much by their lenity and credulity.</p>
+            <p>I confesse, I have heard and knowne much of their credulity, when they gave care to, and proclaymed many strange plots by sea and land; as in Lincolnes-Inne-Fields, Moore-Fields, Ragland Ca<g ref="char:EOLhyphen"/>stle, a Navy from Denmarke, and 1000 more grosse impostures of their owne making.</p>
+            <p>But of their lenity, I professe I never yet heard a syllable; unlesse it hath appeared in raysing forces to fright and awe the honest and honourable Members in Parliament; or in counselling their band-Dogs to worry and slaughter the well affected, for presenting their humble Petitions; or in giving power to any three of the House of Commons to imprison whom they would, (15. June 1648.) or in giving power to any the three of the two Houses (as 21 Apr. 1648) or in granting Commissions to kill and slay, even without all exce<g ref="char:EOLhyphen"/>ption, I, not excepting the King or Prince: and if this be their leni<g ref="char:EOLhyphen"/>ty, The Lord deliver all good Christians from such, and from their lenity.</p>
+            <p>The Reasoner is now at an end, and (as Divells usually have been presented) he goes off with a stinke, notorious stinking lies: for he sayth; <hi>The Parliament hath cause to reject the motion of a treaty: (i.)</hi> They have cause to reject their owne motion: for it is their owne, and it is time they should make it, and proceed in it to: but why should they reject their owne motion? Have you a reason for this to? yes, and store to: and the chiefe is, <hi>Because the King hath againe raysed his Party against the Parliament.</hi> And have the two Houses at any time of late declared so much? or would they not have declared it if they had knowne it? But alas good King, had he been willing to raise his party (and why should not he raise a par<g ref="char:EOLhyphen"/>ty against them that imprison him and oppresse al his good people?) yet how could he raise any Forces he having been under their po<g ref="char:EOLhyphen"/>wer, and close restraint above these 12 moneths?</p>
+            <p>His second Reason is, <hi>That the King hath called in the Scots to destroy the Kingdome.</hi> The Scots, by order of their Parliament, have declared and protested the chiefe causes of their comming in, to be the setling Religion, setting the King at liberty, and to procure a lasting peace: and this ended, quietly and speedily to de<g ref="char:EOLhyphen"/>part: and to these ends why may not the King call in the
+<pb n="20" facs="tcp:42282:11"/> Scots? But tell me I pray, are the Scots so easie as to come at the Kings call? or were you present, and heard the King call them in? or care you not what you say? or feare you not to raise jealousies and slanders; so they may tend to the sedu<g ref="char:EOLhyphen"/>cing and abusing the silly easie people, thereby to joine with you in your treasonable, bloudy, divellish practises, masked all under san<g ref="char:EOLhyphen"/>ctity, Religion, conscience, and tender regard of Parliament?</p>
+            <p>At the last close of all, this man is brought to some reason, and with that I will conclude as he doth: I wish, sayth he, <hi>that Perso<g ref="char:EOLhyphen"/>nall honesty, and Reformation might be thought upon by every man, and then we should soone see a publique deliverance:</hi> and in this I a<g ref="char:EOLhyphen"/>gree with him; and I do more then wish, I heartily pray to God by the mediation of his only sonne, our Lord Jesus Christ to grant to us all, and to this Reasoner, and all of his leaven, Personall ho<g ref="char:EOLhyphen"/>nesty and reformation; and then we should not doubt but (by Gods blessing) soone to see a publique deliverance. Amen, Amen Sweet Jesu.</p>
+            <p>Finally Brethren pray for us, that we may be delivered from un<g ref="char:EOLhyphen"/>reasonable, or absurd, and wicked men. 2. <hi>Thess.</hi> 3.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42282:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
